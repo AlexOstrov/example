@@ -6,3 +6,4 @@
 
 # \- "When Is A Gift Not A Gift?"
 
+(<!-- "ID_EXAMPLE" = "24" "POINT" = "3.3.1">)
