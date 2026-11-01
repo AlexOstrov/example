@@ -7,3 +7,4 @@
 # \- "When Is A Gift Not A Gift?"
 
 <!-- "ID_EXAMPLE" = "24" "POINT" = "3.3.1">
+<!-- REQ-META id="REQ_5" point="4.1" name="Требование 5" -->
